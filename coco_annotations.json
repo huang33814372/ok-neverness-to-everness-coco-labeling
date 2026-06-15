@@ -949,6 +949,19 @@
       ],
       "area": 9025,
       "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 16,
+      "category_id": 42,
+      "bbox": [
+        26,
+        22,
+        55,
+        63
+      ],
+      "area": 3465,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1155,6 +1168,11 @@
     {
       "id": 41,
       "name": "stamina_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 42,
+      "name": "in_domain",
       "supercategory": ""
     },
     {
