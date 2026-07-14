@@ -197,6 +197,12 @@
       "file_name": "37.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 35,
+      "file_name": "40.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1109,6 +1115,32 @@
       ],
       "area": 18816,
       "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 35,
+      "category_id": 70,
+      "bbox": [
+        48,
+        46,
+        61,
+        69
+      ],
+      "area": 4209,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 35,
+      "category_id": 72,
+      "bbox": [
+        1359,
+        678,
+        35,
+        29
+      ],
+      "area": 1015,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1458,8 +1490,18 @@
       "supercategory": ""
     },
     {
+      "id": 70,
+      "name": "bond_panel",
+      "supercategory": ""
+    },
+    {
       "id": 71,
       "name": "anomaly_hamster_ball",
+      "supercategory": ""
+    },
+    {
+      "id": 72,
+      "name": "unlimit_gift",
       "supercategory": ""
     }
   ]
