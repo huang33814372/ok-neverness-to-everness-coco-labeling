@@ -203,6 +203,12 @@
       "file_name": "40.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "id": 36,
+      "file_name": "41.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -1141,6 +1147,19 @@
       ],
       "area": 1015,
       "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 36,
+      "category_id": 73,
+      "bbox": [
+        319,
+        543,
+        29,
+        36
+      ],
+      "area": 1044,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -1502,6 +1521,11 @@
     {
       "id": 72,
       "name": "unlimit_gift",
+      "supercategory": ""
+    },
+    {
+      "id": 73,
+      "name": "boss_treasure",
       "supercategory": ""
     }
   ]
